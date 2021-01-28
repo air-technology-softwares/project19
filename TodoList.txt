@@ -1,0 +1,3 @@
+Todo List
+
+	add bias to platform frequency and size
